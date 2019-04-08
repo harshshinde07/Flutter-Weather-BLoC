@@ -1,6 +1,6 @@
-# flutter_weather
+# Flutter weather
 
-A new Flutter project.
+A flutter weather app using BLoC (Business Logic Components) pattern.
 
 ## Getting Started
 
